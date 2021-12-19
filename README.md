@@ -9,19 +9,19 @@
 <h1 align="center">&lt;G</h1>
 
 <p align="center">
-  <img alt="Github top language" src="https://img.shields.io/github/languages/top/{{YOUR_GITHUB_USERNAME}}/&lt;g?color=56BEB8">
+  <img alt="Github top language" src="https://img.shields.io/github/languages/top/{Coolertyo4}/&lt;g?color=56BEB8">
 
-  <img alt="Github language count" src="https://img.shields.io/github/languages/count/{{YOUR_GITHUB_USERNAME}}/&lt;g?color=56BEB8">
+  <img alt="Github language count" src="https://img.shields.io/github/languages/count/{Coolertyo4}/&lt;g?color=56BEB8">
 
-  <img alt="Repository size" src="https://img.shields.io/github/repo-size/{{YOUR_GITHUB_USERNAME}}/&lt;g?color=56BEB8">
+  <img alt="Repository size" src="https://img.shields.io/github/repo-size/{Coolertyo4}/&lt;g?color=56BEB8">
 
-  <img alt="License" src="https://img.shields.io/github/license/{{YOUR_GITHUB_USERNAME}}/&lt;g?color=56BEB8">
+  <img alt="License" src="https://img.shields.io/github/license/{Coolertyo4}/&lt;g?color=56BEB8">
 
-  <!-- <img alt="Github issues" src="https://img.shields.io/github/issues/{{YOUR_GITHUB_USERNAME}}/&lt;g?color=56BEB8" /> -->
+  <!-- <img alt="Github issues" src="https://img.shields.io/github/issues/{Coolertyo4}/&lt;g?color=56BEB8" /> -->
 
-  <!-- <img alt="Github forks" src="https://img.shields.io/github/forks/{{YOUR_GITHUB_USERNAME}}/&lt;g?color=56BEB8" /> -->
+  <!-- <img alt="Github forks" src="https://img.shields.io/github/forks/{Coolertyo4}/&lt;g?color=56BEB8" /> -->
 
-  <!-- <img alt="Github stars" src="https://img.shields.io/github/stars/{{YOUR_GITHUB_USERNAME}}/&lt;g?color=56BEB8" /> -->
+  <!-- <img alt="Github stars" src="https://img.shields.io/github/stars/{Coolertyo4}/&lt;g?color=56BEB8" /> -->
 </p>
 
 <!-- Status -->
@@ -39,7 +39,7 @@
   <a href="#white_check_mark-requirements">Requirements</a> &#xa0; | &#xa0;
   <a href="#checkered_flag-starting">Starting</a> &#xa0; | &#xa0;
   <a href="#memo-license">License</a> &#xa0; | &#xa0;
-  <a href="https://github.com/{{YOUR_GITHUB_USERNAME}}" target="_blank">Author</a>
+  <a href="https://github.com/{Coolertyo4}" target="_blank">Author</a>
 </p>
 
 <br>
@@ -58,11 +58,7 @@ Describe your project
 
 The following tools were used in this project:
 
-- [Expo](https://expo.io/)
-- [Node.js](https://nodejs.org/en/)
-- [React](https://pt-br.reactjs.org/)
-- [React Native](https://reactnative.dev/)
-- [TypeScript](https://www.typescriptlang.org/)
+- [OpenGL] www.opengl.org
 
 ## :white_check_mark: Requirements ##
 
@@ -72,27 +68,14 @@ Before starting :checkered_flag:, you need to have [Git](https://git-scm.com) an
 
 ```bash
 # Clone this project
-$ git clone https://github.com/{{YOUR_GITHUB_USERNAME}}/&lt;g
+$ git clone https://github.com/{Coolertyo4}/&lt;g
 
-# Access
-$ cd &lt;g
+#build
+$ make
 
-# Install dependencies
-$ yarn
+#run
+$ ./app
 
-# Run the project
-$ yarn start
-
-# The server will initialize in the <http://localhost:3000>
 ```
 
-## :memo: License ##
 
-This project is under license from MIT. For more details, see the [LICENSE](LICENSE.md) file.
-
-
-Made with :heart: by <a href="https://github.com/{{YOUR_GITHUB_USERNAME}}" target="_blank">{{YOUR_NAME}}</a>
-
-&#xa0;
-
-<a href="#top">Back to top</a>
